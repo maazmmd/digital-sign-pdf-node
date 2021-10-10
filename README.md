@@ -8,15 +8,17 @@ Usage
 
 - [Node and npm](http://nodejs.org)
 - Java 8 
-- wkhtmltopdf
+- [wkhtmltopdf](https://wkhtmltopdf.org/)
 
-## Installation
+## Installation 
+Download and install prequities(requirements)
 
+Steps
 1. Clone the repository: `git clone https://github.com/maazmmd/`
 2. Install packages : `npm install`
 3. Run the file : `node html2pdf.js`
 	- Path to HTML file to be convert to PDF: assets/template/sample.html
 	- Path to Digital Certificate: assets/cert.pfx
-	- PDF file to be ditially signed: assets/template/example.pdf (This can also be pdf generated from previous step 1)
+	- PDF file to be ditially signed: assets/template/example.pdf (This can also be pdf generated from sub-step 1)
 
 
